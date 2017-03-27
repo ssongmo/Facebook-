@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Kardoc</string>
+
+    <!-- Sign Activity -->
+    <string name="signin"><u>Sign In</u></string>
+    <string name="id">Id</string>
+    <string name="pw">Password</string>
+    <string name="alertId">Check your Id again</string>
+    <string name="alertPw">Check your Password again</string>
+
+    <!-- Lobby Activity-->
+    <string name="title_activity_lobby">LobbyActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="information1">어떤 서비스가 필요 하신가요?</string>
+    <string name="information2">실시간으로 수리비를 알아보고,\n차량 리뉴얼, 경정비 서비스를 신청할 수 있습니다.</string>
+    <string name="requestSevice">서비스 신청하기 (견적신청서)</string>
+
+    <!--Facebook Login-->
+    <string name="facebook_app_id">268254320295870</string>
+</resources>
